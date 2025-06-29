@@ -1,6 +1,6 @@
 # Tank Battle Game
 
-A modern web-based tank battle game built with HTML5 Canvas, JavaScript, and CSS. Fight off waves of enemy tanks in this action-packed arcade-style game!
+A modern web-based tank battle game built by me with HTML5 Canvas, JavaScript, and CSS. Fight off waves of enemy tanks in this action-packed arcade-style game!
 
 ## 🎮 Features
 
@@ -130,7 +130,7 @@ Feel free to fork this project and add your own features:
 
 ## 📄 License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the MIT License. 
 
 ---
 
